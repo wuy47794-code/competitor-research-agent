@@ -1,0 +1,4 @@
+browser-use>=0.13.0
+python-dotenv>=1.0.0
+flask>=3.0.0
+markdown>=3.5.0
